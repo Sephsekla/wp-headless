@@ -3,7 +3,7 @@
 Plugin Name:  WP Headless
 Plugin URI:
 Description:  A lightweight plugin to disable the WP frontend experience.
-Version:      1.0.0
+Version:      1.0.1
 Author:       Joe Bailey-Roberts
 Author URI:   http://joebr.io
 License:      GPL3
