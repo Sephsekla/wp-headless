@@ -1,7 +1,7 @@
 === WP Headless ===
 Tags: headless,cms
 Requires at least: 4.6
-Tested up to: 4.7
+Tested up to: 5.1.1
 Stable tag: 1.0.0
 Requires PHP: 5.2.4
 License:      GPL3
